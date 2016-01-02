@@ -1,0 +1,1 @@
+This project contains Sirikata project dependencies that are independent of the particular machine.
